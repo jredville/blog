@@ -1,0 +1,25 @@
+--- 
+- dir: vendor/plugins/rspec
+  rev: 3269
+  url: http://rspec.rubyforge.org/svn/trunk/rspec
+- dir: vendor/plugins/rspec_on_rails
+  rev: 3269
+  url: http://rspec.rubyforge.org/svn/trunk/rspec_on_rails
+- dir: vendor/plugins/attachment_fu
+  rev: 3119
+  url: http://svn.techno-weenie.net/projects/plugins/attachment_fu/
+- dir: vendor/plugins/acts_as_taggable_on_steroids
+  rev: 358
+  url: http://svn.viney.net.nz/things/rails/plugins/acts_as_taggable_on_steroids/
+- dir: vendor/plugins/white_list
+  rev: 3119
+  url: http://svn.techno-weenie.net/projects/plugins/white_list/
+- dir: vendor/plugins/acts_as_commentable
+  rev: 8
+  url: http://juixe.com/svn/acts_as_commentable
+- dir: vendor/plugins/webrat
+  rev: 61
+  url: http://svn.eastmedia.net/public/plugins/webrat
+- dir: vendor/rails
+  rev: 8761
+  url: http://svn.rubyonrails.org/rails/trunk
