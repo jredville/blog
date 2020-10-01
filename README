@@ -1,5 +1,6 @@
 == Welcome to Rails
 
+What is Rails?
 Rails is a web-application and persistence framework that includes everything
 needed to create database-backed web-applications according to the
 Model-View-Control pattern of separation. This pattern splits the view (also
@@ -9,6 +10,8 @@ for inserting pre-built data in between HTML tags. The model contains the
 the business logic and knows how to persist themselves to a database. The
 controller handles the incoming requests (such as Save New Account, Update
 Product, Show Post) by manipulating the model and directing data to the view.
+
+What can we do with rails?
 
 In Rails, the model is handled by what's called an object-relational mapping
 layer entitled Active Record. This layer allows you to present the data from
